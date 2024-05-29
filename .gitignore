@@ -56,7 +56,7 @@ yarn-error.log
 # Miscellaneous
 /.angular
 /.angular/cache
-.sass-cache/
+.sass-cache/te
 /connect.lock
 /coverage
 /libpeerconnection.log
